@@ -1,6 +1,6 @@
 # Testing Tutorial
 
-Tutorial material for a software testing course: small Python examples of unit, integration and performance testing, plus why error handling and logging matter.
+Tutorial material: small Python examples of unit, integration and performance testing, plus why error handling and logging matter.
 
 | Folder | What it shows |
 |---|---|
